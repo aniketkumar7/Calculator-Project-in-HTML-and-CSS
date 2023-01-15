@@ -15,7 +15,7 @@
 }
 
 .calculator{
-    background-image: linear-gradient( 95.2deg, rgb(232, 240, 199) 26.8%, rgba(192,229,246,1) 64% );
+    background-image: linear-gradient( 95.2deg, rgb(100, 207, 212) 26.8%, rgb(231, 237, 238) 64% );
     padding: 20px;
     border-radius: 10px;
 }
@@ -24,9 +24,10 @@
     border: 0;
     outline: 0;
     width: 60px;
+    font-weight: 500;
     height: 60px;
     border-radius: 10px;
-    box-shadow: -8px -8px 15px rgba(184, 175, 175, 0.1), 5px 2px 15px rgba(162, 130, 134, 0.2);
+    box-shadow: -8px -8px 15px rgba(4, 87, 94, 0.1), 5px 2px 15px rgba(17, 98, 142, 0.2);
     background: transparent;
     cursor: pointer;
     color: rgb(55, 54, 54);
@@ -52,5 +53,5 @@ form input.display2{
 }
 
 form input.button{
-    color: #1488ee;
+    color: #af035f;
 }
