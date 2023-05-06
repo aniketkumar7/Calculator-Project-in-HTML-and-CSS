@@ -14,7 +14,11 @@
 .container{
    width: 100%;
    height : 100vh;
-   background: radial-gradient(circle at 33% 100%, #e0d4ba 4%, #bfbfbc 30%, #dcd1da 62%, #c5cecf 85%, #c3d5dc);
+   /*background: radial-gradient(circle at 33% 100%, #e0d4ba 4%, #bfbfbc 30%, #dcd1da 62%, #c5cecf 85%, #c3d5dc);*/
+   background-image: url(https://img.freepik.com/free-vector/abstract-wave-line-background-vector-illustration_460848-11943.jpg?w=996&t=st=1680951368~exp=1680951968~hmac=ef7346d4a113b5863b25ebafeb0a581846ac9002f0aa8272d42ac0c9d5db1ae2);
+   background-size: cover;
+   background-position: center;
+   background-repeat: no-repeat;
    display: flex;
    align-items: center;
    justify-content: center;
